@@ -1,0 +1,6 @@
+class User:
+    ...
+
+
+class Admin:
+    ...
