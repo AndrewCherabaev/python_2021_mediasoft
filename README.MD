@@ -5,3 +5,4 @@
 ## [Функции](./3_functions)
 ## [Классы и исключения](./4_classes_and_exceptions)
 ## [Модули](./5_modules)
+## [HTTP и работа с API](./6_http)
